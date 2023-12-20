@@ -48,7 +48,7 @@ body {
 
 /* Hero section */
 .hero-section {
-  background-image: url('https://gray-kold-prod.cdn.arcpublishing.com/resizer/v2/US6B3F6ORZC6JNOEEV7E2IXAAU.png?auth=8b7b5b028c13a6aaa90e6d9c46b9aafefa1a5c53ac91e54deb27395198b807a2&width=1600&height=900&smart=true');
+  background-image: url('https://prodod.moscow/wp-content/uploads/Screenshot_1-8.jpg');
   background-size: cover;
   height: 600px;
   display: flex;
@@ -134,6 +134,7 @@ section {
 }
 
 .speakers-section h2 {
+  margin-left: 10px;
   margin-bottom: 10px;
 }
 
@@ -195,7 +196,7 @@ section {
 }
 
 .faculty-card {
-  width: 300px;
+  width: 600px;
   padding: 20px;
   background-color: #fff;
   border-radius: 8px;
